@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
   <li> 💻 I'm currently working for <a href="https://code.berlin/en/">CODE University</a> </li>
   <li> 🎓 Getting a Bachelor's Degree in Software Engineering at <a href="https://code.berlin/en/">CODE University</a> </li>
