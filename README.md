@@ -1,4 +1,9 @@
-<img width=100% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4635bcd4-4a1d-4e83-bbe4-9edf40e125d0/dcuyqxb-f8f6ead5-0622-48c8-8e5c-c543a2403bc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDYzNWJjZDQtNGExZC00ZTgzLWJiZTQtOWVkZjQwZTEyNWQwXC9kY3V5cXhiLWY4ZjZlYWQ1LTA2MjItNDhjOC04ZTVjLWM1NDNhMjQwM2JjOC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.twgbxPDzLp5fEesnM1IjJSc0ayLVhqP-qSna4iMMPlo" />
+<div align="center">
+	<br>
+	  <a href="https://github.com/KintsugiCode/kintsugicode/edit/main/README.md">
+		  <img src="header.svg" width="100%" height="50">
+	  </a>
+	<br>
 
 ### Hi there 👋
 
