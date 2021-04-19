@@ -19,7 +19,7 @@
 <br>
 
 ## Github Stats
-![KintsugiCode's Github Stats](https://github-readme-stats.vercel.app/api?username=kintsugicode&theme=dark&count_private=true&show_icons=false)
+![KintsugiCode's Github Stats](https://github-readme-stats.vercel.app/api?username=kintsugicode&theme=dark&count_private=true&show_icons=false&include_all_commits=true)
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/kintsugicode/count.svg)
