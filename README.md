@@ -16,3 +16,10 @@
 	  <li> 📫 How to reach me: <a href="mailto: liam.going@code.berlin">liam.going@code.berlin</a> </li>
 	</ul>
 </div>
+<br>
+
+## Github Stats
+![KintsugiCode's Github Stats](https://github-readme-stats.vercel.app/api?username=kintsugicode&theme=dark&count_private=true&show_icons=false)
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/kintsugicode/count.svg)
