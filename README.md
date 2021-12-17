@@ -9,7 +9,7 @@
 <div>
 	<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 	<ul>
-	  <li> 💻 I'm currently working for <a href="https://code.berlin/en/">CODE University</a> </li>
+	  <li> 💻 I'm currently working for <a href="https://collato.com/">Collato</a> as a frontend engineer</li>
 	  <li> 🎓 I'm currently also getting a Bachelor's Degree in Software Engineering at <a href="https://code.berlin/en/">CODE University</a> </li>
 	  <li> :hammer: I studied Mechanical Engineering Sciences at <a href="https://ethz.ch/en.html/">ETH Zürich</a> for five years before deciding to focus on 		Software Engineering
 	  <li> :herb: My current main project is Greenit (<a href="https://greenitcommunity.com">live site</a>)---(<a href="https://github.com/greenit-recipes">repo</a>)</li>
