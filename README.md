@@ -12,7 +12,7 @@
 	  <li> 💻 I'm currently working for <a href="https://collato.com/">Collato</a> as a full-stack engineer</li>
 	  <li> 🎓 I'm currently also getting a Bachelor's Degree in Software Engineering at <a href="https://code.berlin/en/">CODE University</a> </li>
 	  <li> :hammer: I studied Mechanical Engineering Sciences at <a href="https://ethz.ch/en.html/">ETH Zürich</a> for five years before deciding to focus on 		Software Engineering
-	  <li> :herb: My current main project is Greenit (<a href="https://greenitcommunity.com">live site</a>)---(<a href="https://github.com/greenit-recipes">repo</a>)</li>
+	  <li> :herb: My last larger project was Greenit (<a href="https://greenitcommunity.com">live site</a>)---(<a href="https://github.com/greenit-recipes">repo</a>)</li>
 	  <li> :wrench: My current side project is <a href="http://liamgoing.com">my own website</a> </li>
 	  <li> :sunrise_over_mountains: My procrastination project is daydreaming about <a href="https://media.giphy.com/media/SLXFqBMvvdKcU/giphy.gif">rock 			climbing</a> </li>
 	  <li> 📫 How to reach me: <a href="mailto: liam.going@code.berlin">liam.going@code.berlin</a> </li>
